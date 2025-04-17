@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, There! Arash And Arian Company!</h1>
 <h3 align="center">Innovating financial solutions.</h3>
 
-- 🔭 We currently working on [iCarts](https://icarts.ir/)
+- 🔭 We currently working on [iCarts](https://icarts.ir/) [![Icarts Front](https://github.com/ArashAryanCo/icart_typescript/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/ArashAryanCo/icart_typescript/actions/workflows/deploy.yml)
 
 
 
